@@ -4,6 +4,10 @@
 
 For more information, please see the article on [creating a default community health file for your organization](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file).
 
+## Profile
+
+This repository is also responsible for the bgwebagency Profile Page.
+
 ## About
 
 BG Web Agency aims at creating quality courses and opensource softwares to help developers around the world. Learn more about us [at our website](http://bgwebagency.in/)
